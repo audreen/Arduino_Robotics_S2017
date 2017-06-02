@@ -26,7 +26,7 @@ void loop() {
   Serial.println(buttonState);
   delay(1);        // delay in between reads for stability
   
-  if (buttonState == HIGH) {
+  while (buttonState == HIGH) {
   digitalWrite (2, HIGH);   // turn the LED on (HIGH is the voltage level)
   digitalWrite (4, LOW);
   delay(500);                       // wait for a second
@@ -43,10 +43,4 @@ void loop() {
 //  digitalWrite (4, LOW);
 //  delay(500);
     }
-  else (buttonState == LOW); {
-    digitalWrite (2, LOW);
-    digitalWrite (4, LOW);
-    delay(500);
-  }
-  
 }
