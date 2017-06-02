@@ -43,7 +43,7 @@ void loop() {
 //  digitalWrite (4, LOW);
 //  delay(500);
     }
-  else (buttonState == LOW); {
+  else {
     digitalWrite (2, LOW);
     digitalWrite (4, LOW);
   }
