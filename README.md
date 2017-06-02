@@ -35,3 +35,4 @@ analogValue = analogRead(0);
   
   http://s1136.photobucket.com/user/audreen890/media/IMG_3993.jpg.html
   
+For the pushbutton assignment I did not get to finish it on time because I had the wiring done incorrectly. I had a difficult time with this because I think I have trouble reading the pictures on the website so I need to work on that. Other than that, I understand the coding and did that correctly.
