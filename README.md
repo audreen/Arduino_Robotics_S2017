@@ -40,3 +40,6 @@ For the pushbutton assignment I did not get to finish it on time because I had t
 June 5
 Youtube Link for pushbutton:https://youtu.be/ZTT6m-XhfYo
 Youtube Link for Sensor: https://youtu.be/kM7rB1FHSl0
+---
+FINAL
+For this project I decided to put together things that we learned throughout the course. I have two motors, two light sensors, and a distance sensor. The motors change direction (left or right) depending on how much light each sensor is getting. If the robot gets too close to an object it will stop, back up, turn left, and then turn right. For this I also used two breadboards, the distance sensor is on a seperate board so it could be facing the front of the robot.
