@@ -43,3 +43,12 @@ Youtube Link for Sensor: https://youtu.be/kM7rB1FHSl0
 ---
 FINAL
 For this project I decided to put together things that we learned throughout the course. I have two motors, two light sensors, and a distance sensor. The motors change direction (left or right) depending on how much light each sensor is getting. If the robot gets too close to an object it will stop, back up, turn left, and then turn right. For this I also used two breadboards, the distance sensor is on a seperate board so it could be facing the front of the robot.
+---
+SCHEMATICS:
+<a href="http://s1136.photobucket.com/user/audreen890/media/l293d_5V_twoMotors_schem.jpg.html" target="_blank"><img src="http://i1136.photobucket.com/albums/n493/audreen890/l293d_5V_twoMotors_schem.jpg" border="0" alt=" photo l293d_5V_twoMotors_schem.jpg"/></a>
+---
+FLOW CHART:
+<a href="http://s1136.photobucket.com/user/audreen890/media/IMG_4707.jpg.html" target="_blank"><img src="http://i1136.photobucket.com/albums/n493/audreen890/IMG_4707.jpg" border="0" alt=" photo IMG_4707.jpg"/></a>
+---
+BLOCK CHART:
+<a href="http://s1136.photobucket.com/user/audreen890/media/IMG_4706.jpg.html" target="_blank"><img src="http://i1136.photobucket.com/albums/n493/audreen890/IMG_4706.jpg" border="0" alt=" photo IMG_4706.jpg"/></a>
